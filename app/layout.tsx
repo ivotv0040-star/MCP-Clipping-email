@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "FAPES Brevo MCP",
-  description: "Servidor MCP para envio de e-mail HTML via Brevo"
+  title: "FAPES Brevo MCP - Clipping",
+  description: "Servidor MCP para envio de e-mail HTML via Brevo - Clipping"
 };
 
 export default function RootLayout({
